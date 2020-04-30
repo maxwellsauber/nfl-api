@@ -1,4 +1,3 @@
-// const teams = require('../teams') // No Longer needed, all routes now go to MySQL
 const models = require('../models')
 
 const getAllTeams = async (request, response) => {
